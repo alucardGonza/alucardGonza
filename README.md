@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alucardGonza
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning javascrip, html and css
+- 🌱 I’m currently learning javascript, html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on ig as @daniel.g.duran and @pasp.gonz
 
